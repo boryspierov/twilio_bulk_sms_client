@@ -1,1 +1,2 @@
-prtint(Hello, world!)
+prtint(hllo, world!)
+
